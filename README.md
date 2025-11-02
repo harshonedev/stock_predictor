@@ -351,10 +351,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Vishesh Kumar**  
-B.Tech (IT), USICT, GGSIPU  
-📧 visesone@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/vishesh-kumar)
+**Harsh Rajput**  
 
 ## ⚠️ Disclaimer
 
